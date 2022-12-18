@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   test:
-    #где запскаем
+    #где запускаем
     runs-on: ubuntu-latest
     #что делаем
     steps:
